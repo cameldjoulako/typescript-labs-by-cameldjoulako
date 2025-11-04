@@ -1,0 +1,15 @@
+{
+  "name": "typescript-labs-by-cameldjoulako",
+  "version": "1.0.0",
+  "description": "Professional TypeScript lab showcasing my understanding of modern JavaScript, strong typing, and clean architecture principles. Part of my software engineering portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
